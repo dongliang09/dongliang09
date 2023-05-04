@@ -36,16 +36,13 @@ Here are some ideas to get you started:
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Dongliang's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dongliang09&show_icons=true&hide_border=true" />
-
-</details>
-
-<details>
-  <summary>:zap: Most Used Languages</summary>
-
-<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongliang09" />
-
-</details>
+<div display="flex">
+  <div>
+    <div>:zap: GitHub Stats</div>
+    <img alt="Dongliang's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dongliang09&show_icons=true&hide_border=true" />
+  </div>
+  <div>
+    <div>:zap: Most Used Languages</div>
+    <img alt="Dongliang's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongliang09" />
+  </div>
+</div>
