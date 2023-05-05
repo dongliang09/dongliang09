@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi my name is Dongliang Li 👋
 
 <!--
 **dongliang09/dongliang09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,17 +32,9 @@ Here are some ideas to get you started:
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<br/>
 
----
-
-<div display="flex">
-  <div>
-    <div>:zap: GitHub Stats</div>
-    <img alt="Dongliang's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dongliang09&show_icons=true&hide_border=true" />
-  </div>
-  <div>
-    <div>:zap: Most Used Languages</div>
-    <img alt="Dongliang's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongliang09" />
-  </div>
+<div>
+  <img alt="Dongliang's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dongliang09&layout=compact&show_icons=true&hide_border=true" />
+  <img alt="Dongliang's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongliang09&layout=compact" />
 </div>
+
