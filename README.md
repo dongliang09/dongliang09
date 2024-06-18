@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div>
+  <p> 🌱 I am Dongliang Li and I am fullstack enginner (App Academy) with a background of Eletrical Engineering from UC Davis</p>
+  <p> 📫 Email: dongliang14@gmail.com </p>
+  <p> 😄 You can also connect me through <a href='https://www.linkedin.com/in/dongliang-li-a9ab038a/'>LinkedIn</a> </p>
+</div>
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
